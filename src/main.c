@@ -13,6 +13,7 @@ int main(int argc, char *argv[]) {
     } else {
         printf("Please make sure to use 3 arguments ass follows ./pin add "
                "Path/path/path.....\n");
+        printf(":Hey git!");
         return 1;
     }
     return 0;
