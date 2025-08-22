@@ -1,0 +1,10 @@
+# build artifacts
+pin
+*.o
+/build/
+/bin/
+/obj/
+
+# local data file (don’t track your personal PATHS.txt)
+src/PATHS.txt
+
